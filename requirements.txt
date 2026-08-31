@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+torch
+torchvision
+huggingface_hub
+python-dotenv
+pillow
+numpy
